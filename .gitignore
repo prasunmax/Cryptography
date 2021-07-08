@@ -25,3 +25,6 @@ hs_err_pid*
 target/
 6.1.intro.mp4_download
 6.2.birthday.mp4_download
+.settings/
+.classpath
+.project
